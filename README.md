@@ -29,6 +29,7 @@ Explore the Foodie website: https://delightful-baklava-60f205.netlify.app/
 
 ## Screenshots
 
+
 ## Folder structure
 
 - src/components — shared UI parts such as header, footer, cards, and layout
