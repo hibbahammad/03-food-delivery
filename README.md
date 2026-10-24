@@ -2,6 +2,10 @@
 
 Foodie is a polished food delivery storefront built with React, Vite, and React Router. It includes restaurant browsing, search, cart management, checkout, order tracking, and a demo auth flow powered by localStorage.
 
+## 🌐 Live Demo
+
+Explore the Foodie website: https://delightful-baklava-60f205.netlify.app/
+
 ## Features
 
 - Responsive home page and landing experience
@@ -24,8 +28,6 @@ Foodie is a polished food delivery storefront built with React, Vite, and React 
 - LocalStorage for demo persistence
 
 ## Screenshots
-
-Add screenshots here when the app is running locally.
 
 ## Folder structure
 
