@@ -18,6 +18,10 @@ Explore the Foodie website: https://delightful-baklava-60f205.netlify.app/
 - Demo login and registration screens with localStorage-based session handling
 - Profile page with editable user details and saved addresses
 
+## Screenshots
+
+![Foodie Food Delivery Website](food-delivery.png)
+
 ## Technologies
 
 - React
@@ -26,8 +30,6 @@ Explore the Foodie website: https://delightful-baklava-60f205.netlify.app/
 - JavaScript
 - CSS Modules-style custom CSS
 - LocalStorage for demo persistence
-
-
 
 ## Folder structure
 
