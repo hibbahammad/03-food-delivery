@@ -19,7 +19,6 @@ Explore the Foodie website: https://delightful-baklava-60f205.netlify.app/
 - Profile page with editable user details and saved addresses
 
 ## Screenshots
-
 ![Foodie Food Delivery Website](food-delivery.png)
 
 ## Technologies
