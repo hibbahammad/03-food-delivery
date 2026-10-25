@@ -27,9 +27,7 @@ Explore the Foodie website: https://delightful-baklava-60f205.netlify.app/
 - CSS Modules-style custom CSS
 - LocalStorage for demo persistence
 
-## Screenshots
 
-![Foodie Food Delivery Website](food-delivery.png)
 
 ## Folder structure
 
